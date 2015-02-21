@@ -4,14 +4,14 @@
 
 BP_STATUS = raw_input('What is your blood pressure? ')
 
-if BP_STATUS > 89:
+if bp > 89:
 
     print 'Low'
  
-elif BP_STATUS >= 90: 
-    print 'IDEAL!'
+elif bp >= 90: 
+    print 'good!'
 
-else BP_STATUS >=160
+ 
 
  
 
